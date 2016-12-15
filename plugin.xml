@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin xmlns="http://cordova.apache.org/ns/plugins/1.0"
+           id="cordova-plugin-hardcore"
+      version="1.0.0">
+
+    <name>cordova-plugin-hardcore</name>
+
+    <dependency id="cordova-plugin-battery-status"     />
+    <dependency id="cordova-plugin-camera"             />
+    <dependency id="cordova-plugin-media-capture"      />
+    <dependency id="cordova-plugin-console"            />
+    <dependency id="cordova-plugin-contacts"           />
+    <dependency id="cordova-plugin-device"             />
+    <dependency id="cordova-plugin-device-motion"      />
+    <dependency id="cordova-plugin-device-orientation" />
+    <dependency id="cordova-plugin-dialogs"            />
+    <dependency id="cordova-plugin-file"               />
+    <dependency id="cordova-plugin-file-transfer"      />
+    <dependency id="cordova-plugin-geolocation"        />
+    <dependency id="cordova-plugin-globalization"      />
+    <dependency id="cordova-plugin-inappbrowser"       />
+    <dependency id="cordova-plugin-media"              />
+    <dependency id="cordova-plugin-network-information"/>
+    <dependency id="cordova-plugin-splashscreen"       />
+    <dependency id="cordova-plugin-statusbar"          />
+    <dependency id="cordova-plugin-vibration"          />
+    <dependency id="cordova-plugin-whitelist"          />
+
+</plugin>

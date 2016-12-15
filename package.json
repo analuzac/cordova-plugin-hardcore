@@ -1,0 +1,37 @@
+{
+    "name": "cordova-plugin-hardcore",
+    "description": "ALL the core plugins",
+    "version": "0.0.1",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/purplecabbage/cordova-plugin-hardcore"
+    },
+    "bugs": {
+        "url": "https://github.com/purplecabbage/cordova-plugin-hardcore/issues"
+    },
+    "cordova": {
+        "id": "cordova-plugin-hardcore",
+        "platforms": [
+            "ios",
+            "android",
+            "windows"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "ecosystem:phonegap",
+        "cordova-ios",
+        "cordova-android",
+        "cordova-windows"
+    ],
+    "engines":{
+        "cordova" : ">=3.0.0"
+    },
+    "author": "Jesse MacFadyen",
+    "license": "Apache 2.0",
+    "scripts": {
+    },
+    "devDependencies": {
+    }
+}
