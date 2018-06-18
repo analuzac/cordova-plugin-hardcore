@@ -27,5 +27,7 @@
     <dependency id="cordova-plugin-statusbar"          />
     <dependency id="cordova-plugin-vibration"          />
     <dependency id="cordova-plugin-whitelist"          />
+    
+    <platform name="ios"></platform>
 
 </plugin>
