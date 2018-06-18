@@ -5,6 +5,7 @@
       version="1.0.0">
 
     <name>cordova-plugin-hardcore</name>
+    <description>le description.....</description>
 
     <dependency id="cordova-plugin-battery-status"     />
     <dependency id="cordova-plugin-camera"             />
